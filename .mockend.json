@@ -1,0 +1,13 @@
+[{
+        "newID": 1,
+        "about": "Django",
+        "title": "Rest",
+        "body": "this is a body res:))"
+    },
+ {
+        "newID": 2,
+        "about": "Django",
+        "title": "Rest__",
+        "body": "this is a body res:)) __"
+    }
+ ]
